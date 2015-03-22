@@ -1,2 +1,3 @@
-# admin-template-links
-Admin template links collection
+## Admin template links collection
+
+* [Boom Admin](http://bootstrapbay.com/theme/boom-admin-dashboard-web-app-template-B86EFAA)
